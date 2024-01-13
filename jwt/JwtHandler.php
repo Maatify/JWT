@@ -19,7 +19,7 @@
  * FITNESS FOR A PARTICULAR PURPOSE.
  *
  */
-namespace JwtHandler;
+namespace Maatify\JwtHandler;
 
 use Exception;
 use Firebase\JWT\JWT;
