@@ -4,6 +4,9 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/maatify/jwt)][pkg-stats]
 [![Stars](https://img.shields.io/packagist/stars/maatify/jwt)](https://github.com/maatify/jwt/stargazers)
 
+[pkg]: <https://packagist.org/packages/maatify/jwt>
+[pkg-stats]: <https://packagist.org/packages/maatify/jwt/stats>
+
 # JWT
 
 maatify.dev JWT handler, known by our team
