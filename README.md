@@ -1,3 +1,10 @@
+[![Current version](https://img.shields.io/packagist/v/maatify/jwt)][pkg]
+[![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/maatify/jwt)][pkg]
+[![Monthly Downloads](https://img.shields.io/packagist/dm/maatify/jwt)][pkg-stats]
+[![Total Downloads](https://img.shields.io/packagist/dt/maatify/jwt)][pkg-stats]
+[![Stars](https://img.shields.io/packagist/stars/maatify/jwt)](https://github.com/maatify/jwt)
+
+
 # PostValidatorJsonCode
 
 maatify.dev JWT handler, known by our team
